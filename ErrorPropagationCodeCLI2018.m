@@ -1,4 +1,4 @@
-%% Uncertainty Calculation for APSC100 MOD2, Queen's University
+%% Uncertainty Calculation
 % Created by Francesco Virga, May 2017
 
 % Simplified process:
